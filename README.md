@@ -2,7 +2,7 @@
 
 I'm JavaXSScript (don't mind my name).
 
-I'm known as Baconman321 on [repl.it](https://repl.it).
+I'm known as Baconman321 on [replit.com](https://repl.it).
 
 I work with web-related technologies, although I *do* dream about software engineering.
 
